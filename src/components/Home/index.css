@@ -1,0 +1,9 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  border: 1px solid blue;
+  margin: 40px;
+}
